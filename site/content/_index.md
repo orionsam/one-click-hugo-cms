@@ -1,7 +1,7 @@
 ---
 title: Љубицина стаза
 subtitle: у додиру са природом
-image: img/491831653_9729260087136104_9012954702586219269_n.jpg
+image: img/4e277b6b-8e00-45fe-a320-7eb5c4a8cb6b.png
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
